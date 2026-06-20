@@ -1,5 +1,5 @@
 public class Eje4 {
-    public int ObtenerAñoActual(){
+    public int obtenerAñoActual() {
         int AñoActual = (int) 2026;
         return AñoActual;
     }
